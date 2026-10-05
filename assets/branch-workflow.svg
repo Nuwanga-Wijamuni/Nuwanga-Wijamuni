@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="552" viewBox="0 0 1120 552" role="img" aria-labelledby="title desc">
+<title id="title">Illustrative Git branch and merge workflow for an AI feature</title>
+<desc id="desc">Start on main. Branch into feature/rag, implement retrieval, evaluate, and merge as v1.0. Branch into fix/retrieval, correct an edge case, and merge as v1.0.1. This is an example, not actual repository history.</desc>
+<rect x="1" y="1" width="1118" height="550" rx="18" fill="#0d141c" stroke="#2d3a45"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="30" y="36" fill="#e6edf3" font-size="15" font-weight="700">BRANCH · BUILD · REVIEW · MERGE</text>
+<text x="1090" y="36" text-anchor="end" fill="#82939e" font-size="11">ILLUSTRATIVE WORKFLOW</text>
+<g font-size="15" font-weight="700" text-anchor="middle">
+<rect x="129" y="61" width="200" height="35" rx="17" fill="#20331e"/><text x="229" y="84" fill="#b8e684">main</text>
+<rect x="459" y="61" width="200" height="35" rx="17" fill="#133239"/><text x="559" y="84" fill="#85d9d5">feature/rag</text>
+<rect x="789" y="61" width="200" height="35" rx="17" fill="#222a43"/><text x="889" y="84" fill="#b1c2f4">fix/retrieval</text>
+</g>
+<g fill="none" stroke-width="3">
+<path d="M229 124V466" stroke="#a3df42"/>
+<path d="M229 124C394 124 559 132 559 188V250C559 294 394 310 229 310" stroke="#67cfc8"/>
+<path d="M229 310C557 310 889 309 889 372C889 419 560 434 229 434" stroke="#a3b9ed"/>
+</g>
+<g fill="#0d141c" stroke-width="3">
+<circle cx="229" cy="124" r="8" stroke="#a3df42"/>
+<circle cx="559" cy="188" r="8" stroke="#67cfc8"/>
+<circle cx="559" cy="250" r="8" stroke="#67cfc8"/>
+<circle cx="229" cy="310" r="10" stroke="#a3df42"/>
+<circle cx="229" cy="310" r="3" fill="#a3df42" stroke="none"/>
+<circle cx="889" cy="372" r="8" stroke="#a3b9ed"/>
+<circle cx="229" cy="434" r="10" stroke="#a3df42"/>
+<circle cx="229" cy="434" r="3" fill="#a3df42" stroke="none"/>
+</g>
+<g fill="#e0e9ee" font-size="15">
+<text x="30" y="129">Baseline commit</text>
+<text x="585" y="193">Implement retrieval</text>
+<text x="585" y="255">Evaluate + refine</text>
+<text x="30" y="304">Reviewed merge</text>
+<text x="30" y="327" fill="#b8e684" font-size="12">RELEASE v1.0</text>
+<text x="912" y="369">Fix retrieval</text><text x="912" y="391" fill="#a9b8c3" font-size="13">edge case</text>
+<text x="30" y="430">Patch merge</text>
+<text x="30" y="453" fill="#b8e684" font-size="12">RELEASE v1.0.1</text>
+</g>
+<path d="M30 490H1090" stroke="#2c3944"/>
+<text x="30" y="523" fill="#9facb7" font-size="12">Example development flow for an AI project. Release labels and commits are illustrative.</text>
+</g></svg>

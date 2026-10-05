@@ -1,0 +1,11 @@
+gitGraph TB:
+    commit id: "Baseline"
+    branch "feature/rag"
+    commit id: "Retrieval"
+    commit id: "Evaluation"
+    checkout main
+    merge "feature/rag" id: "Reviewed merge" tag: "v1.0"
+    branch "fix/retrieval"
+    commit id: "Edge-case fix"
+    checkout main
+    merge "fix/retrieval" id: "Patch merge" tag: "v1.0.1"

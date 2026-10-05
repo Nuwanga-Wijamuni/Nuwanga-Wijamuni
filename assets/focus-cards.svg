@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="176" viewBox="0 0 1120 176" role="img" aria-labelledby="title">
+<title id="title">Engineering focus: agentic systems, knowledge engineering, and cloud and MLOps.</title>
+<defs><linearGradient id="a" x2="1" y2="1"><stop stop-color="#172c22"/><stop offset="1" stop-color="#0c141b"/></linearGradient><linearGradient id="b" x2="1" y2="1"><stop stop-color="#102a31"/><stop offset="1" stop-color="#0c141b"/></linearGradient><linearGradient id="c" x2="1" y2="1"><stop stop-color="#192439"/><stop offset="1" stop-color="#0c141b"/></linearGradient></defs>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="1" y="1" width="358" height="174" rx="16" fill="url(#a)" stroke="#344e3b"/>
+<rect x="381" y="1" width="358" height="174" rx="16" fill="url(#b)" stroke="#2d4955"/>
+<rect x="761" y="1" width="358" height="174" rx="16" fill="url(#c)" stroke="#35435b"/>
+<text x="25" y="37" font-size="11" letter-spacing="2" fill="#a3df42">01 / AGENTIC SYSTEMS</text>
+<text x="405" y="37" font-size="11" letter-spacing="2" fill="#6fd6d0">02 / KNOWLEDGE ENGINEERING</text>
+<text x="785" y="37" font-size="11" letter-spacing="2" fill="#9bb8f1">03 / CLOUD &amp; MLOPS</text>
+<text x="25" y="85" font-size="24" font-weight="700" fill="#e6edf3">Context into action.</text>
+<text x="405" y="85" font-size="24" font-weight="700" fill="#e6edf3">Answers with sources.</text>
+<text x="785" y="85" font-size="24" font-weight="700" fill="#e6edf3">Built to run.</text>
+<text x="25" y="119" font-size="14" fill="#a6b6bd">Tools · Memory · Orchestration</text>
+<text x="405" y="119" font-size="14" fill="#a6b6bd">RAG · SQL · Multimodal retrieval</text>
+<text x="785" y="119" font-size="14" fill="#a6b6bd">APIs · Containers · Observability</text>
+<path d="M25 147H91" stroke="#a3df42" stroke-width="3" stroke-linecap="round"/>
+<path d="M405 147H471" stroke="#6fd6d0" stroke-width="3" stroke-linecap="round"/>
+<path d="M785 147H851" stroke="#9bb8f1" stroke-width="3" stroke-linecap="round"/>
+</g></svg>
