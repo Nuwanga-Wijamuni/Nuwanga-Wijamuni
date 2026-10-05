@@ -1,0 +1,27 @@
+NUWANGA WIJAMUNI — GITHUB PROFILE
+
+1. Open https://github.com/Nuwanga-Wijamuni/Nuwanga-Wijamuni
+2. Upload README.md and the entire assets folder to the repository root.
+   Keep the folder name and image filenames unchanged.
+3. Commit the changes and visit https://github.com/Nuwanga-Wijamuni
+
+The README is the profile content. SETUP.txt, ASSET-SOURCES.txt, and
+PREVIEW.html are supporting files and do not need to be uploaded to GitHub.
+
+Open PREVIEW.html locally to inspect the design before uploading. It is a
+GitHub-style preview; GitHub controls the final typography and table rendering.
+
+The profile repository must be public and have the same name as your username.
+Official instructions:
+https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+
+DESIGN NOTES
+- Charcoal, silver, and green visual identity with a custom SVG banner.
+- All images are included locally; there are no external image widgets.
+- Project and career descriptions are based on the supplied CV and verified
+  public repository documentation.
+- LinkedIn uses the complete address from the supplied CV.
+- NVIDIA Agentic AI is described as completed training, not a certification.
+- DGX Spark is described as research, not owned or deployed hardware.
+- Dates and credentials reflect the supplied CV as of October 2026. The visual
+  direction is inspired by the requested 2027 aesthetic.

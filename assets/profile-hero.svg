@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-labelledby="title desc">
+  <title id="title">Nuwanga Wijamuni — AI Engineer</title>
+  <desc id="desc">A charcoal and silver profile banner with lime accents and an abstract network. Building AI that connects knowledge to action.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101820"/><stop offset="1" stop-color="#070b10"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/><stop offset="1" stop-color="#a8b8c6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#76b900" stop-opacity=".16"/><stop offset="1" stop-color="#76b900" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#b1ea55"/><stop offset="1" stop-color="#6288a9" stop-opacity=".16"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#728597" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="450" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="448" rx="19" fill="url(#grid)" stroke="#26323c"/>
+  <circle cx="1010" cy="200" r="270" fill="url(#glow)"/>
+  <rect x="60" y="54" width="34" height="4" rx="2" fill="#a3df42"/>
+  <text x="108" y="62" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#b6c4cc">AI ENGINEERING / SRI LANKA</text>
+  <text x="58" y="157" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="url(#silver)">Nuwanga</text>
+  <text x="58" y="237" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="url(#silver)">Wijamuni<tspan fill="#a3df42">.</tspan></text>
+  <text x="62" y="289" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#b4c0ca">Building AI that connects</text>
+  <text x="62" y="323" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#e7edf1">knowledge to action.</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">
+    <rect x="62" y="367" width="146" height="33" rx="16.5" fill="#182519" stroke="#45652d"/>
+    <text x="82" y="389" fill="#b8e783">AGENTIC AI</text>
+    <rect x="220" y="367" width="83" height="33" rx="16.5" fill="#111b24" stroke="#30404d"/>
+    <text x="244" y="389" fill="#c7d3dd">RAG</text>
+    <rect x="315" y="367" width="108" height="33" rx="16.5" fill="#111b24" stroke="#30404d"/>
+    <text x="335" y="389" fill="#c7d3dd">MLOPS</text>
+  </g>
+  <g transform="translate(968 210)">
+    <circle r="154" fill="none" stroke="#3c5542" stroke-width="1"/>
+    <circle r="182" fill="none" stroke="#253943" stroke-width="1" stroke-dasharray="3 13"/>
+    <ellipse rx="185" ry="64" transform="rotate(-32)" fill="none" stroke="url(#line)" stroke-width="1.4"/>
+    <ellipse rx="171" ry="70" transform="rotate(38)" fill="none" stroke="#426367" stroke-width="1.2"/>
+    <path d="M-132-79 L-78 121 L87 115 L140-64 L-26-146 Z M-132-79 L87 115 M-78 121 L140-64 M-26-146 L87 115 M-132-79 L140-64" fill="none" stroke="url(#line)" stroke-width="1.1"/>
+    <g fill="#0f1b20" stroke="#64885f" stroke-width="1.5">
+      <circle cx="-132" cy="-79" r="8"/><circle cx="-78" cy="121" r="6"/>
+      <circle cx="87" cy="115" r="8"/><circle cx="140" cy="-64" r="6"/>
+      <circle cx="-26" cy="-146" r="7"/>
+    </g>
+    <circle cx="-132" cy="-79" r="3" fill="#b5e972"/>
+    <circle cx="140" cy="-64" r="3" fill="#b5e972"/>
+    <circle cx="87" cy="115" r="3" fill="#a0c4d7"/>
+    <rect x="-56" y="-56" width="112" height="112" rx="22" fill="#101b1d" stroke="#668a57" stroke-width="1.5"/>
+    <rect x="-46" y="-46" width="92" height="92" rx="15" fill="#152322" stroke="#2e493b"/>
+    <text x="0" y="13" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" letter-spacing="-2" fill="#d9f6af">NW</text>
+  </g>
+  <text x="968" y="417" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3" fill="#92a09e">RETRIEVE · REASON · ACT</text>
+</svg>

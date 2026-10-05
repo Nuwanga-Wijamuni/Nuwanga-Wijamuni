@@ -1,0 +1,25 @@
+ASSET SOURCES
+
+Downloaded from NVIDIA on 2026-10-05. Product imagery remains the property of NVIDIA.
+The photographs are used to illustrate an independent infrastructure research interest.
+
+Source page: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+
+dgx-spark-hardware.jpg
+https://www.nvidia.com/content/nvidiaGDC/us/en_US/products/workstations/dgx-spark/_jcr_content/root/responsivegrid/nv_container_section/nv_tabs_resources_10/nv_container_tab3_blogs_8/nv_container_blogs_inner_8/nv_teaser_9.coreimg.jpeg/1790944986331/dgx-spark-resources-open-ai-1920x1080.jpeg
+
+dgx-spark-workstation.jpg
+https://www.nvidia.com/content/nvidiaGDC/us/en_US/products/workstations/dgx-spark/_jcr_content/root/responsivegrid/nv_container_section/nv_tabs_resources_10/nv_container_tab3_blogs_8/nv_container_blogs_inner_8/nv_teaser_10.coreimg.jpeg/1790944986385/dgx-spark-resources-developers-1920x1080.jpeg
+
+profile-hero.svg
+Original vector layout created for Nuwanga Wijamuni.
+
+Technical references
+https://developer.nvidia.com/nim
+https://docs.nvidia.com/nemo/agent-toolkit/latest/index.html
+https://build.nvidia.com/spark
+
+Career content: supplied AI Engineer CV.
+Public repository descriptions checked on 2026-10-05:
+https://github.com/Nuwanga-Wijamuni/AIVisualAgent
+https://github.com/Nuwanga-Wijamuni/RAG_Docker
