@@ -23,3 +23,25 @@ Career content: supplied AI Engineer CV.
 Public repository descriptions checked on 2026-10-05:
 https://github.com/Nuwanga-Wijamuni/AIVisualAgent
 https://github.com/Nuwanga-Wijamuni/RAG_Docker
+
+ADDITIONAL DESIGN ASSETS
+focus-cards.svg, branch-workflow.svg, profile-footer.svg
+Original vector layouts created for Nuwanga Wijamuni.
+
+tech-icons.svg
+https://skillicons.dev/icons?i=python,fastapi,docker,aws,gcp,postgres,git,githubactions&theme=dark
+Skill Icons project: https://github.com/tandpfun/skill-icons
+Brand icons identify technologies; respective brands retain their trademarks.
+
+ACTIVITY DATA (snapshot 2026-10-05)
+https://api.github.com/users/Nuwanga-Wijamuni
+https://api.github.com/search/commits?q=author%3ANuwanga-Wijamuni&sort=author-date&order=desc&per_page=6
+https://github.com/users/Nuwanga-Wijamuni/contributions?from=2025-01-01&to=2025-12-31
+https://github.com/users/Nuwanga-Wijamuni/contributions?from=2026-01-01&to=2026-12-31
+Daily calendar counts are filtered to 2025-10-06 through 2026-10-05.
+The heatmap uses consistent contribution-count bins: 0, 1-2, 3-5, 6-10, 11+.
+The calendar is not a count of commits alone.
+
+DIAGRAM REFERENCE
+https://mermaid.js.org/syntax/gitgraph.html
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams

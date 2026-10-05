@@ -25,3 +25,31 @@ DESIGN NOTES
 - DGX Spark is described as research, not owned or deployed hardware.
 - Dates and credentials reflect the supplied CV as of October 2026. The visual
   direction is inspired by the requested 2027 aesthetic.
+
+DESIGN UPDATE
+The updated version adds navigation tabs, three focus cards, technology icons,
+a contribution calendar, a recent-commit timeline, a Git branch diagram,
+and a matching footer.
+
+ACTIVITY GRAPHICS
+The images are dated snapshots from GitHub, not live counters. The contribution
+calendar includes qualifying contribution types, not only commits. The recent
+commit panel uses GitHub's indexed public commit search. Private commit details
+are not included. The branch workflow is an illustrative example.
+
+To refresh the GitHub activity graphics, open Terminal in this extracted folder
+and run:
+
+    python3 tools/update_activity.py
+
+Then upload the updated files in assets/ to your profile repository. This command
+requires internet access. No credentials or extra Python packages are required.
+GitHub's unauthenticated API rate limits apply. This does not schedule any job
+or automatically publish changes to GitHub.
+
+NATIVE DIAGRAM
+The README also contains an expandable Mermaid version. GitHub renders it;
+the local HTML preview shows its source code. The full static SVG diagram
+above it works in both places. An editable copy is in diagrams/branch-workflow.mmd.
+
+The tools/ and diagrams/ folders are optional uploads.

@@ -19,11 +19,25 @@
 
 ---
 
+<p align="center">
+  <a href="#projects"><kbd>PROJECTS</kbd></a> &nbsp;
+  <a href="#nvidia"><kbd>NVIDIA AI</kbd></a> &nbsp;
+  <a href="#toolkit"><kbd>TECH STACK</kbd></a> &nbsp;
+  <a href="#github-activity"><kbd>COMMITS</kbd></a> &nbsp;
+  <a href="#branch-workflow"><kbd>BRANCHES</kbd></a>
+</p>
+
 I build AI systems that connect **business knowledge, language models, and useful actions**. My work spans agentic retrieval, conversational interfaces, natural language-to-SQL, and the infrastructure that brings them together.
 
 At **HSB Marine Constructions**, I work on company knowledge applications and approval-based automation. Previously, I worked in data engineering at **One Billion Tech** and data science at **MAS Holdings**.
 
 My engineering priorities: **source-linked answers, traceable agent workflows, clear human approval points, and reproducible deployments.**
+
+<p align="center">
+  <img src="./assets/focus-cards.svg" width="100%" alt="Engineering focus: agentic systems, knowledge engineering, and cloud and MLOps." />
+</p>
+
+<a name="projects"></a>
 
 ## 01 / Selected work
 
@@ -59,6 +73,8 @@ My engineering priorities: **source-linked answers, traceable agent workflows, c
     </td>
   </tr>
 </table>
+
+<a name="nvidia"></a>
 
 ## 02 / NVIDIA · Agentic AI & local compute
 
@@ -102,7 +118,13 @@ My next research direction is a **local enterprise AI workbench**: document retr
 
 <sub>Product imagery: NVIDIA. DGX Spark is an infrastructure research interest; the images illustrate the platform.</sub>
 
+<a name="toolkit"></a>
+
 ## 03 / Engineering toolkit
+
+<p align="center">
+  <img src="./assets/tech-icons.svg" width="480" alt="Python, FastAPI, Docker, AWS, Google Cloud, PostgreSQL, Git, and GitHub Actions technology icons." />
+</p>
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -120,7 +142,53 @@ My next research direction is a **local enterprise AI workbench**: document retr
   <p><strong>AI application design:</strong> prompt and context engineering, hybrid conversational memory, source attribution, structured outputs, and human-in-the-loop workflows.</p>
 </details>
 
-## 04 / Experience
+<a name="github-activity"></a>
+
+## 04 / GitHub activity & commits
+
+<p align="center">
+  <a href="https://github.com/Nuwanga-Wijamuni?tab=repositories">
+    <img src="./assets/github-overview.svg" width="100%" alt="GitHub profile overview with public repository count, trailing-year contributions, and snapshot date." />
+  </a>
+  <a href="https://github.com/Nuwanga-Wijamuni?tab=overview">
+    <img src="./assets/contribution-activity.svg" width="100%" alt="Dated heatmap of 365 days of GitHub profile contributions; contributions include commits and other activity." />
+  </a>
+</p>
+
+<img src="./assets/recent-commits.svg" width="100%" alt="Recent indexed public commits showing repositories, commit messages, short hashes, and dates." />
+
+<sub>Activity graphics are dated snapshots from GitHub. The calendar includes multiple contribution types; the timeline shows indexed public commits. <a href="https://github.com/Nuwanga-Wijamuni?tab=overview">View current GitHub activity ↗</a> · <a href="https://github.com/search?q=author%3ANuwanga-Wijamuni&amp;type=commits">Browse public commits ↗</a></sub>
+
+<a name="branch-workflow"></a>
+
+## 05 / Branches, commits & releases
+
+An **illustrative AI development workflow**: build retrieval on a feature branch, evaluate the change, review and merge it, then deliver a focused fix. The diagram shows an example workflow, not the history of a specific repository.
+
+<p align="center">
+  <img src="./assets/branch-workflow.svg" width="100%" alt="Illustrative vertical Git workflow with main, feature/rag, and fix/retrieval branches, feature commits, reviewed merges, and example release tags." />
+</p>
+
+<details>
+<summary><strong>Explore the native Mermaid branch diagram</strong></summary>
+
+```mermaid
+gitGraph TB:
+    commit id: "Baseline"
+    branch "feature/rag"
+    commit id: "Retrieval"
+    commit id: "Evaluation"
+    checkout main
+    merge "feature/rag" id: "Reviewed merge" tag: "v1.0"
+    branch "fix/retrieval"
+    commit id: "Edge-case fix"
+    checkout main
+    merge "fix/retrieval" id: "Patch merge" tag: "v1.0.1"
+```
+
+</details>
+
+## 06 / Experience
 
 | Organization | Role & contribution |
 | :--- | :--- |
@@ -128,7 +196,7 @@ My next research direction is a **local enterprise AI workbench**: document retr
 | **One Billion Tech**<br /><sub>Aug 2024 – Jul 2025</sub> | **Data Engineer Intern**<br />RAG deployment with LLaMA and Weaviate; natural language-to-SQL applications; Snowflake query optimization and data-load logging. |
 | **MAS Holdings**<br /><sub>Mar 2023 – Mar 2024</sub> | **Data Scientist Intern**<br />Sales forecasting with ARIMA, Prophet, and LSTM; automated data preparation; Power BI dashboards. |
 
-## 05 / Education & credentials
+## 07 / Education & credentials
 
 - **Bachelor of Information Technology, Specialization in Data Science** — SLIIT, 2020–2024.
 - **AWS Certified Data Engineer – Associate (DEA-C01)** — earned in 2024.
@@ -137,6 +205,10 @@ My next research direction is a **local enterprise AI workbench**: document retr
 - **ML Nexus Quiz Competition** — second runner-up, University of Colombo.
 
 ---
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="From knowledge to useful action. Nuwanga Wijamuni, AI Engineering." />
+</p>
 
 <p align="center">
   <strong>Let's build useful AI, with the engineering to support it.</strong><br /><br />
